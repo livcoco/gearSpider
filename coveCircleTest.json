@@ -1,0 +1,75 @@
+{
+    "parameterSets": {
+        "design default values": {
+            "$fn": "60",
+            "QRn": "6",
+            "circRadi": "61",
+            "edgeRound": "6",
+            "endAngle": "120",
+            "startAngle": "0"
+        },
+        "quarter-ring, 6mm, 6 step": {
+            "$fn": "60",
+            "QRn": "6",
+            "circRadi": "61",
+            "edgeRound": "6",
+            "endAngle": "90",
+            "startAngle": "0"
+        },
+        "half-ring, 10mm, 9 step": {
+            "$fn": "60",
+            "QRn": "9",
+            "circRadi": "61",
+            "edgeRound": "6",
+            "endAngle": "180",
+            "showDetails": "false",
+            "startAngle": "0"
+        },
+        "full ring, 7mm, 6 step": {
+            "$fn": "60",
+            "QRn": "6",
+            "circRadi": "61",
+            "edgeRound": "7",
+            "endAngle": "360",
+            "showDetails": "false",
+            "startAngle": "0"
+        },
+        "full ring, 7mm, 8 step, details": {
+            "$fn": "60",
+            "QRn": "8",
+            "circRadi": "61",
+            "edgeRound": "7",
+            "endAngle": "360",
+            "showDetails": "true",
+            "startAngle": "0"
+        },
+        "eighth-ring, 10mm, 8 step, details": {
+            "$fn": "60",
+            "QRn": "8",
+            "circRadi": "61",
+            "edgeRound": "6",
+            "endAngle": "45",
+            "showDetails": "true",
+            "startAngle": "0"
+        },
+        "30mm 18th-ring, 10mm, 8 step, details": {
+            "$fn": "36",
+            "QRn": "8",
+            "circRadi": "21",
+            "edgeRound": "6",
+            "endAngle": "20",
+            "showDetails": "true",
+            "startAngle": "0"
+        },
+        "30mm 36th-ring, 10mm, 8 step, details": {
+            "$fn": "36",
+            "QRn": "8",
+            "circRadi": "30",
+            "edgeRound": "6",
+            "endAngle": "10",
+            "showDetails": "true",
+            "startAngle": "0"
+        }
+    },
+    "fileFormatVersion": "1"
+}
